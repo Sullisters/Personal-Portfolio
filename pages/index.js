@@ -13,9 +13,9 @@ import philip2 from "../public/philip2.jpeg";
 import design from "../public/design.jpg";
 import code from "../public/code.jpg";
 import fullstack from "../public/fullstack.png";
-import web1 from "../public/web1.jpg";
-import web2 from "../public/web2.jpg";
-import web3 from "../public/web3.jpg";
+import web1 from "../public/WasteNot.png";
+import web2 from "../public/BirdBrain.png";
+import web3 from "../public/TradeWizard.png";
 import { useState } from "react";
 
 const inter = Inter({ subsets: ["latin"] });
