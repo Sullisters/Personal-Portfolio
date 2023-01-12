@@ -100,7 +100,7 @@ export default function Home() {
             <h3 className="text-3xl py-1">Services I offer</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-300">
               Since completing the bootcamp, I have continued my studies
-              independently to learn more about creating robust APIs as well as
+              independently to learn more about creating robust APIs, as well as
               using React.js to create a mobile-first website where users
               without coding experience can easily interact with a database. I
               bring these skills to an environment: The ability to ask
@@ -116,7 +116,7 @@ export default function Home() {
               <Image src={design} width={200} height={200} className="inline" />
               <h3 className="text-lg font-medium pt-8 pb-2">Design work</h3>
               <p className="py-2">
-                Creating elegant designs suited for your needs following core
+                Creating elegant designs suited to your needs following core
                 design theory
               </p>
               <h4 className="py-4 text-violet-600">Design tools I use</h4>
